@@ -31,7 +31,7 @@
     "clone": "^1.0.4",
     "fs.realpath": "^1.0.0",
     "inflight": "^1.0.6",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "shuffle-array": "^1.0.1",
     "source-map-support": "^0.4.15",
     "tslint": "^5.10.0",
